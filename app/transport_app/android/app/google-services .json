@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "93252548581",
+    "project_id": "transportapp-46de5",
+    "storage_bucket": "transportapp-46de5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93252548581:android:5147d3feba7d406157e10c",
+        "android_client_info": {
+          "package_name": "com.areeba.transport_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNwHqtI29soqkQlUaSakrf3nhbMLlwgzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

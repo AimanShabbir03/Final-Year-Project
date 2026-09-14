@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "856962329109",
+    "project_id": "areebakhan-transport",
+    "storage_bucket": "areebakhan-transport.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856962329109:android:278d2133ee6cb760233c1c",
+        "android_client_info": {
+          "package_name": "com.areebakhan.transport_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSZNt-9W_uNzBDx4Nd9ZnL1MSvjxnyoKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856962329109:android:ef50ca1e466fa226233c1c",
+        "android_client_info": {
+          "package_name": "com.areebakhan.transportapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSZNt-9W_uNzBDx4Nd9ZnL1MSvjxnyoKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
